@@ -1,0 +1,11 @@
+criando projeto --> npx create-expo-app --template
+
+npm start --> rodando emulador e projeto 
+
+para utilizar o expo router, entre em app.json, procure web e mude o  "output": "server",
+
+animacoes --> moti --> expo install moti / npm i moti
+
+animacoes --> react native Reanimated
+
+instalando expo router --> npx expo install expo-router react-native-safe-area-context react-native-screens expo-linking expo-constants expo-status-bar
